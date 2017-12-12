@@ -1,2 +1,2 @@
 # UnifiOnCentos7
-installation scripts from unifi forum
+installation and update script from unifi forum
